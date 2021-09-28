@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/gdsc-gvp/Problem-Solving.svg)](https://github.com/gdsc-gvp/Pyscripts/issues)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed/gdsc-gvp/Problem-Solving.svg)](https://github.com/gdsc-gvp/Pyscripts/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/gdsc-gvp/Problem-Solving.svg)](https://github.com/gdsc-gvp/Pyscripts/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/gdsc-gvp/DProblem-Solving.svg)](https://github.com/gdsc-gvp/Pyscripts/pulls?q=is%3Apr+is%3Aclosed) 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/gdsc-gvp/Problem-Solving.svg)](https://github.com/gdsc-gvp/Pyscripts/pulls?q=is%3Apr+is%3Aclosed) 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
