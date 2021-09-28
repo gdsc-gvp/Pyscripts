@@ -17,6 +17,7 @@
 
 ## Pyscripts
 
+It is a stockpile of amazing pyscripts which are beginner's friendly. It is a space where you can find or add new pyscripts. Get started with coding scripts in Python that you can use to create some games  or simply find a person without wearing a mask. 
 
 ## Contributing  
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcome!  
