@@ -19,18 +19,21 @@ def grayscale_filter(image):
     return grayscaled_image
 
 
+# Path for the image
+image_path = './cat.png'
 img = None
+
 try:
-    img = cv2.imread('cat.png')
+    img = cv2.imread(image_path)
 except Exception:
     urllib.request.urlretrieve(
         'https://images.unsplash.com/photo-1615789591457-74a63395c990?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFieSUyMGNhdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80',
         "cat.png")
     img = cv2.imread('cat.png')
 
-
+# convert to grayscale
 grayscaled_image = grayscale_filter(img)
-cv2.imwrite('cat_with_filter.png', 255*grayscaled_image)
+cv2.imwrite('grayscaled_image.png', 255*grayscaled_image)
 cv2.imshow('original image', img)
 cv2.imshow('image with grayscale filter', grayscaled_image)
 cv2.waitKey(0)
